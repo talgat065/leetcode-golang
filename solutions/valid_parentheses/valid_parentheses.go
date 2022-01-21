@@ -1,4 +1,4 @@
-package leetcode
+package solutions
 
 func IsValid(s string) bool {
 	brackets := map[rune]rune{'[': ']', '(': ')', '{': '}'}
